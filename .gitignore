@@ -1,7 +1,0 @@
-.DS_Store
-.sass-cache/
-node_modules/
-public/
-temp/
-npm-debug.log
-tmp/
